@@ -1,3 +1,4 @@
+//Must use older Proccessing to run = Processing 2.0
 
 // Little program for displaying one animated GIF
 // based on the gifAnimation library by Extrapixel 
