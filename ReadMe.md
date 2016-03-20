@@ -2,4 +2,4 @@
 
 ##Flashing Circle Array
 
-![ScreenShot](https://github.com/dunhampa/Processing-Projects/blob/master/FlashingCircleArray/data/FlashingCirclesProcessed.gif=500x500)
+![ScreenShot](https://github.com/dunhampa/Processing-Projects/blob/master/FlashingCircleArray/data/FlashingCirclesProcessed.gif)
