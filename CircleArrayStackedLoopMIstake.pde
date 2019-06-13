@@ -21,7 +21,7 @@ class myApplication
      {
        myCir = new RndColorCircle(stroke,diameter/2+spacing*c-diameter/2,(diameter+spacing)*r-diameter/2,diameter);
      }
-   delay(delay);
+  // delay(delay);
   
    
  }
