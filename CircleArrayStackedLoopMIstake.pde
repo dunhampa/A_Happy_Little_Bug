@@ -57,3 +57,12 @@ void draw(){
   
    myApp=new myApplication();
 }
+
+void mousePressed() {
+
+
+  redraw();
+
+}
+
+
