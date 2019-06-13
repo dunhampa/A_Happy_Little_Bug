@@ -48,7 +48,7 @@ class RndColorCircle
 //This runs once and is for static intializations
 void setup(){
    size (750,750);
-   
+   frameRate( 15 );   
 }
 
 //2 of 2 PROCESSING "main" program
