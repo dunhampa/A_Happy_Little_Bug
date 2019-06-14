@@ -49,6 +49,7 @@ class RndColorCircle
 void setup(){
    size (750,750);
    frameRate( .25 );   
+   myApp=new myApplication();
 }
 
 //2 of 2 PROCESSING "main" program
