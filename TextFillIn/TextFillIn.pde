@@ -5,8 +5,8 @@ PImage photo;
 void setup() {
   size(1000, 350);
  
-  //PFont font = loadFont("LemonMilk-24.vlw");
-  PFont font = loadFont("CANDYINC-48.vlw");
+  PFont font = loadFont("3ds-Light-48.vlw");
+  //PFont font = loadFont("CANDYINC-210.vlw");
  //PFont font=createFont("Vladimir Script",210,true);
   txt = createGraphics(width, height);  
   txt.beginDraw();
@@ -14,7 +14,7 @@ void setup() {
   txt.textAlign(CENTER, CENTER);
   txt.fill(255);
   txt.textFont(font, 48);
-  txt.text("test test", width/2, height/2);
+  txt.text("testla testla", width/2, height/2);
   txt.endDraw();
  
   photo = loadImage(url);

@@ -63,4 +63,3 @@ void draw() {
 void mousePressed() {
     gifExport.finish();                 // write file
 }
-
