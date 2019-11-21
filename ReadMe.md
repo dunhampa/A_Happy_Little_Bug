@@ -8,7 +8,7 @@ Using Processing.org (Java), I enjoy coding graphics and animations. The best pa
 
 [//]: #[![](https://github.com/dunhampa/Processing-Projects/blob/master/CircleBlogInspiration/example_20190012.png)](https://github.com/dunhampa/A_Happy_Little_Bug/tree/master/CircleBlogInspiration)
 
-[![](https://github.com/dunhampa/Processing-Projects/blob/master/CircleBlogInspiration/example_20190012.png)](#)
+[![ ](https://github.com/dunhampa/Processing-Projects/blob/master/CircleBlogInspiration/example_20190012.png)](#)
 
 
 
