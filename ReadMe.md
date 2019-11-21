@@ -4,10 +4,12 @@ Using Processing.org (Java), I enjoy coding graphics and animations. The best pa
 
 ## Blog Inspiration
 
-[//]: # Comment for example of linking
+[//]: # (Comment for example of linking)
+
 [//]: #[![](https://github.com/dunhampa/Processing-Projects/blob/master/CircleBlogInspiration/example_20190012.png)](https://github.com/dunhampa/A_Happy_Little_Bug/tree/master/CircleBlogInspiration)
 
 [![](https://github.com/dunhampa/Processing-Projects/blob/master/CircleBlogInspiration/example_20190012.png)](#)
+
 
 
 ## Flashing Circle Array
